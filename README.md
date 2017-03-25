@@ -1,4 +1,4 @@
-# HINT_Web
+# Diagnose Centre (Hosted using Domain provided by Radix)
 As we all know, millions of people have died due to medical epidemics in the early 15th century upto the late 21st century.
 
 15th Century, Black Death- 75–100 million, i.e, 30–60% of population of Europe, Asia and North Africa died due to plague.
