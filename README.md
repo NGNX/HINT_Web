@@ -1,11 +1,18 @@
 # HINT_Web
-As we all know, millions of people have died due to medical epidemics in the early 15th century upto the late 21st century. 
-15th Century, Black Death- 75–100 million, i.e, 30–60% of population of Europe, Asia and North Africa died due to plague. 
-16th Century, Cocoliztli- 5–15 million, i.e, 80% of the population of Mexico died due to viral hemorrhagic fever
-18th Century, Third Cholera pandemic- 1,000,000 people died in Russia due to cholera. 
+As we all know, millions of people have died due to medical epidemics in the early 15th century upto the late 21st century.
+
+15th Century, Black Death- 75–100 million, i.e, 30–60% of population of Europe, Asia and North Africa died due to plague.
+
+16th Century, Cocoliztli- 5–15 million, i.e, 80% of the population of Mexico died due to viral hemorrhagic fever.
+
+18th Century, Third Cholera pandemic- 1,000,000 people died in Russia due to cholera.
+
 Earlier people didn't realize the need of doctors or medical educations. But the things got more severe as more and more people were dying due to plagues which could be easily avoided.
+
 Finally doctors gained their importance and there was a huge advancement in medical technology during the 21st century which lead to drastic control in death toll. The doctors were available almost everywhere but their fees were too expensive for the common man. Many of the common problems were avoided.
+
 Today, we have implemented a website using the Infermedica database which lets you diagnose your problems based on the symptoms you are facing. This is a huge advancement in computer technology. You get to know your problems based on a virtual doctor interview which is very reliable due to huge dataset. Now you can diagnose your common problems for which you are not sure if you need to visit a doctor or not.
+
 Although, we are not a direct substitute for doctors but we provide an inexpensive and hassle free way to predict small problems.
 
 Screenshots:-
